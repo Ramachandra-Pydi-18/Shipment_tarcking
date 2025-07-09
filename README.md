@@ -23,12 +23,6 @@ A modern web application built with **React** and **Firebase** that enables user
 
 ---
 
-## 🧪 Live Demo
-
-> [🚀 Click here to view the live demo](#) *(Update with actual deployment URL once hosted)*
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
